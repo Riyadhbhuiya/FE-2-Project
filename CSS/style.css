@@ -1,0 +1,17 @@
+body{
+    font-family: 'Lato', sans-serif;
+    font-weight: 300;
+}
+.logo{
+    margin-top:20px;
+}
+.light{
+    font-size:50px;
+    font-weight:100;
+}
+
+.r{
+    font-weight: 300;
+    font-size:80px;
+    border:5px solid red;
+}
